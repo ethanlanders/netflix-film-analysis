@@ -26,4 +26,4 @@ This project examines the correlation between the runtime and weekly views of fi
     - Alternatively, to run all cells, go to the menu and select `Runtime` > `Run all`.
 
 ## Project Report
-For a detailed explanation of the project, including methodologies, analysis, and results, please refer to the (`project-report.md`)[project-report.md] file.
+For a detailed explanation of the project, including methodologies, analysis, and results, please refer to the (project-report.md)[project-report.md] file.
