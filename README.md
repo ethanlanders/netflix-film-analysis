@@ -2,6 +2,8 @@
 
 Spring 2024 Data Visualization Project | Old Dominion University
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GDShteNxp6c?si=K51DpC085LsU-pQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Overview
 This project examines the correlation between the runtime and weekly views of films featured in Netflix's top ten rankings each week. It also investigates which calendar seasons produce the highest viewership for these films.
 
