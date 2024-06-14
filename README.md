@@ -1,8 +1,8 @@
 # Netflix Film Analysis
 
-Spring 2024 Data Visualization Project | Old Dominion University
+**Spring 2024 Data Visualization Project | Old Dominion University**
 
-Click [here](https://www.youtube.com/embed/GDShteNxp6c?si=K51DpC085LsU-pQo) to watch my YouTube video overviewing the project.
+Click [here](https://youtu.be/GDShteNxp6c?feature=shared) to watch my YouTube video overviewing the project.
 
 ## Overview
 This project examines the correlation between the runtime and weekly views of films featured in Netflix's top ten rankings each week. It also investigates which calendar seasons produce the highest viewership for these films.
